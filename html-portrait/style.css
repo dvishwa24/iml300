@@ -2,6 +2,7 @@ body {
   background-image: url("assets/sky.gif");
   background-size: cover;
   height: 100vh;
+  color: #ff0000;
 }
 
 img {
@@ -21,6 +22,7 @@ img:hover {
 
 p:hover {
   /*   transform: rotate(5deg); */
+  color: #ff0000;
   letter-spacing: 1em;
 }
 
